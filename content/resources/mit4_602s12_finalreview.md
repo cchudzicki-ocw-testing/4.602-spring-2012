@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture Handout: Final Review'
-type: OCWFile
 uid: 837089c1-4b4a-6eac-b64a-b50ad54e4d59
 ---

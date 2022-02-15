@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: '4.602 Modern Art and Mass Culture Assignment: Final Exam Image Review List'
-type: OCWFile
 uid: cfacda01-f3fa-2308-a2fc-c8bd004424ed
 ---

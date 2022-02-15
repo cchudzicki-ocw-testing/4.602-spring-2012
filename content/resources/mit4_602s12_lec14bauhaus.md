@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 14 Handout: Bauhaus'
-type: OCWFile
 uid: 47de41a6-e484-7da2-ec43-f8bdba5877e5
 ---

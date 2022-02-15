@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: '4.602 Modern Art and Mass Culture Assignment: Oral Presentation'
-type: OCWFile
 uid: 08c41734-f7e7-f562-7370-01582a2dc050
 ---

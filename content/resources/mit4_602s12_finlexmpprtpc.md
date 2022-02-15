@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: '4.602 Modern Art and Mass Culture Assignment:  Final Exam Paper Topic'
-type: OCWFile
 uid: 7855a048-7712-f7cc-7cad-7d71340db0de
 ---

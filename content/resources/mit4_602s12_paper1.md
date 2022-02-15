@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: '4.602 Modern Art and Mass Culture Assignment: Paper 1'
-type: OCWFile
 uid: 45c69dee-af41-36a6-5632-b0eaa72b1cbb
 ---

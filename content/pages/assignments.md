@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidelines and instructions for the course assignments,
+  including an oral presentation and five papers.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

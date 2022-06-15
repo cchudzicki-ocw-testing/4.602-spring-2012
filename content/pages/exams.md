@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides image review lists for the midterm and final exam,
+  and the topic for the final exam.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides general information on the course, meeting
+  times, prerequisites, a definition of mass culture, an overview of lectures, a note
+  on modernism and postmodernism, course requirements, grading, and the policy on
+  academic honesty.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection

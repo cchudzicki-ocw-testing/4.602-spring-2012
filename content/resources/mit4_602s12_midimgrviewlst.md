@@ -5,6 +5,7 @@ file: /courses/4-602-modern-art-and-mass-culture-spring-2012/2c50c3bc0fb40a8d92c
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
